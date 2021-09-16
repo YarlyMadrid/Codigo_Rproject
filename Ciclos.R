@@ -1,6 +1,6 @@
 #TALLER DE CICLOS
 #SOLO INCLUYEN UNAS CUANTAS PREGUNTAS DEL TALLER
-
+# COMENTARIO PARA PROBAR
 #Pregunta 3
 
 divisoresExactos <- function(numero){
